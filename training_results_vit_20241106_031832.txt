@@ -1,0 +1,146 @@
+Training started at: 20241106_031832
+Model: Vision Transformer (ViT)
+Total images: 4479
+Number of classes: 50
+==================================================
+
+
+Epoch 1/20
+Train Loss: 3.5140, Train Accuracy: 10.66%
+Train Precision: 0.1102, Train Recall: 0.1053, Train F1 Score: 0.0966
+Validation Loss: 3.1351, Validation Accuracy: 18.86%
+Validation Precision: 0.1394, Validation Recall: 0.1794, Validation F1 Score: 0.1218
+==================================================
+
+Epoch 2/20
+Train Loss: 2.5783, Train Accuracy: 28.16%
+Train Precision: 0.2669, Train Recall: 0.2814, Train F1 Score: 0.2672
+Validation Loss: 2.3462, Validation Accuracy: 32.59%
+Validation Precision: 0.3152, Validation Recall: 0.3059, Validation F1 Score: 0.2669
+==================================================
+
+Epoch 3/20
+Train Loss: 2.0067, Train Accuracy: 41.64%
+Train Precision: 0.4105, Train Recall: 0.4145, Train F1 Score: 0.4083
+Validation Loss: 1.8659, Validation Accuracy: 47.10%
+Validation Precision: 0.4981, Validation Recall: 0.4615, Validation F1 Score: 0.4423
+==================================================
+
+Epoch 4/20
+Train Loss: 1.5204, Train Accuracy: 54.67%
+Train Precision: 0.5450, Train Recall: 0.5479, Train F1 Score: 0.5442
+Validation Loss: 1.7097, Validation Accuracy: 50.56%
+Validation Precision: 0.5443, Validation Recall: 0.4960, Validation F1 Score: 0.4833
+==================================================
+
+Epoch 5/20
+Train Loss: 1.1819, Train Accuracy: 63.86%
+Train Precision: 0.6398, Train Recall: 0.6402, Train F1 Score: 0.6377
+Validation Loss: 1.5718, Validation Accuracy: 54.46%
+Validation Precision: 0.5682, Validation Recall: 0.5363, Validation F1 Score: 0.5271
+==================================================
+
+Epoch 6/20
+Train Loss: 0.9021, Train Accuracy: 72.62%
+Train Precision: 0.7282, Train Recall: 0.7277, Train F1 Score: 0.7266
+Validation Loss: 1.4096, Validation Accuracy: 58.59%
+Validation Precision: 0.6104, Validation Recall: 0.5720, Validation F1 Score: 0.5578
+==================================================
+
+Epoch 7/20
+Train Loss: 0.6443, Train Accuracy: 79.68%
+Train Precision: 0.7987, Train Recall: 0.7967, Train F1 Score: 0.7972
+Validation Loss: 1.5544, Validation Accuracy: 54.13%
+Validation Precision: 0.5859, Validation Recall: 0.5367, Validation F1 Score: 0.5264
+==================================================
+
+Epoch 8/20
+Train Loss: 0.4775, Train Accuracy: 84.79%
+Train Precision: 0.8486, Train Recall: 0.8475, Train F1 Score: 0.8475
+Validation Loss: 1.3958, Validation Accuracy: 61.61%
+Validation Precision: 0.6563, Validation Recall: 0.6079, Validation F1 Score: 0.6077
+==================================================
+
+Epoch 9/20
+Train Loss: 0.2976, Train Accuracy: 90.82%
+Train Precision: 0.9092, Train Recall: 0.9078, Train F1 Score: 0.9082
+Validation Loss: 1.4666, Validation Accuracy: 60.27%
+Validation Precision: 0.6362, Validation Recall: 0.5950, Validation F1 Score: 0.5880
+==================================================
+
+Epoch 10/20
+Train Loss: 0.2322, Train Accuracy: 93.25%
+Train Precision: 0.9319, Train Recall: 0.9326, Train F1 Score: 0.9320
+Validation Loss: 1.5491, Validation Accuracy: 60.04%
+Validation Precision: 0.6194, Validation Recall: 0.5821, Validation F1 Score: 0.5716
+==================================================
+
+Epoch 11/20
+Train Loss: 0.1457, Train Accuracy: 95.59%
+Train Precision: 0.9561, Train Recall: 0.9561, Train F1 Score: 0.9560
+Validation Loss: 1.5072, Validation Accuracy: 62.50%
+Validation Precision: 0.6244, Validation Recall: 0.6136, Validation F1 Score: 0.6022
+==================================================
+
+Epoch 12/20
+Train Loss: 0.0872, Train Accuracy: 97.38%
+Train Precision: 0.9732, Train Recall: 0.9733, Train F1 Score: 0.9732
+Validation Loss: 1.6222, Validation Accuracy: 63.06%
+Validation Precision: 0.6700, Validation Recall: 0.6239, Validation F1 Score: 0.6208
+==================================================
+
+Epoch 13/20
+Train Loss: 0.0800, Train Accuracy: 97.80%
+Train Precision: 0.9780, Train Recall: 0.9777, Train F1 Score: 0.9778
+Validation Loss: 1.7004, Validation Accuracy: 60.49%
+Validation Precision: 0.6387, Validation Recall: 0.6032, Validation F1 Score: 0.5957
+==================================================
+
+Epoch 14/20
+Train Loss: 0.0659, Train Accuracy: 98.24%
+Train Precision: 0.9826, Train Recall: 0.9829, Train F1 Score: 0.9827
+Validation Loss: 1.8626, Validation Accuracy: 59.38%
+Validation Precision: 0.6475, Validation Recall: 0.5934, Validation F1 Score: 0.5756
+==================================================
+
+Epoch 15/20
+Train Loss: 0.1179, Train Accuracy: 96.76%
+Train Precision: 0.9674, Train Recall: 0.9669, Train F1 Score: 0.9670
+Validation Loss: 1.8743, Validation Accuracy: 58.59%
+Validation Precision: 0.6248, Validation Recall: 0.5709, Validation F1 Score: 0.5675
+==================================================
+
+Epoch 16/20
+Train Loss: 0.2120, Train Accuracy: 93.55%
+Train Precision: 0.9364, Train Recall: 0.9363, Train F1 Score: 0.9362
+Validation Loss: 1.7882, Validation Accuracy: 60.16%
+Validation Precision: 0.6184, Validation Recall: 0.5837, Validation F1 Score: 0.5773
+==================================================
+
+Epoch 17/20
+Train Loss: 0.1899, Train Accuracy: 93.66%
+Train Precision: 0.9374, Train Recall: 0.9365, Train F1 Score: 0.9368
+Validation Loss: 1.8111, Validation Accuracy: 58.26%
+Validation Precision: 0.6166, Validation Recall: 0.5615, Validation F1 Score: 0.5626
+==================================================
+
+Epoch 18/20
+Train Loss: 0.1644, Train Accuracy: 94.95%
+Train Precision: 0.9490, Train Recall: 0.9493, Train F1 Score: 0.9490
+Validation Loss: 1.8756, Validation Accuracy: 57.37%
+Validation Precision: 0.6037, Validation Recall: 0.5658, Validation F1 Score: 0.5546
+==================================================
+
+Epoch 19/20
+Train Loss: 0.1263, Train Accuracy: 96.15%
+Train Precision: 0.9634, Train Recall: 0.9619, Train F1 Score: 0.9625
+Validation Loss: 1.7543, Validation Accuracy: 61.83%
+Validation Precision: 0.6382, Validation Recall: 0.6087, Validation F1 Score: 0.6015
+==================================================
+
+Epoch 20/20
+Train Loss: 0.0581, Train Accuracy: 98.38%
+Train Precision: 0.9845, Train Recall: 0.9841, Train F1 Score: 0.9842
+Validation Loss: 1.6510, Validation Accuracy: 62.50%
+Validation Precision: 0.6571, Validation Recall: 0.6175, Validation F1 Score: 0.6171
+==================================================

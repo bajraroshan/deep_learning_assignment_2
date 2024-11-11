@@ -1,0 +1,196 @@
+Training started at: 20241105_055759
+Model: EfficientNet-B2
+Total images: 4479
+Number of classes: 50
+==================================================
+
+
+Epoch 1/20
+Train Loss: 3.8111, Train Accuracy: 4.07%
+Train Precision: 0.0328, Train Recall: 0.0375, Train F1 Score: 0.0222
+Valid Loss: 3.8068, Valid Accuracy: 5.36%
+Valid Precision: 0.0257, Valid Recall: 0.0464, Valid F1 Score: 0.0212
+Time taken: 70.51 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 3.8068
+
+Epoch 2/20
+Train Loss: 3.6436, Train Accuracy: 6.98%
+Train Precision: 0.0416, Train Recall: 0.0599, Train F1 Score: 0.0393
+Valid Loss: 3.5614, Valid Accuracy: 9.04%
+Valid Precision: 0.0270, Valid Recall: 0.0753, Valid F1 Score: 0.0300
+Time taken: 64.49 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 3.5614
+
+Epoch 3/20
+Train Loss: 3.3716, Train Accuracy: 10.38%
+Train Precision: 0.0668, Train Recall: 0.0921, Train F1 Score: 0.0644
+Valid Loss: 3.2015, Valid Accuracy: 11.72%
+Valid Precision: 0.0930, Valid Recall: 0.1137, Valid F1 Score: 0.0768
+Time taken: 63.35 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 3.2015
+
+Epoch 4/20
+Train Loss: 3.1100, Train Accuracy: 15.21%
+Train Precision: 0.1482, Train Recall: 0.1417, Train F1 Score: 0.1240
+Valid Loss: 2.8830, Valid Accuracy: 18.64%
+Valid Precision: 0.1651, Valid Recall: 0.1939, Valid F1 Score: 0.1335
+Time taken: 63.95 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 2.8830
+
+Epoch 5/20
+Train Loss: 2.8568, Train Accuracy: 20.85%
+Train Precision: 0.1861, Train Recall: 0.1980, Train F1 Score: 0.1721
+Valid Loss: 2.6216, Valid Accuracy: 25.89%
+Valid Precision: 0.2525, Valid Recall: 0.2559, Valid F1 Score: 0.2173
+Time taken: 63.14 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 2.6216
+
+Epoch 6/20
+Train Loss: 2.6151, Train Accuracy: 25.40%
+Train Precision: 0.2292, Train Recall: 0.2466, Train F1 Score: 0.2235
+Valid Loss: 2.4033, Valid Accuracy: 28.91%
+Valid Precision: 0.3372, Valid Recall: 0.2811, Valid F1 Score: 0.2521
+Time taken: 62.96 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 2.4033
+
+Epoch 7/20
+Train Loss: 2.3564, Train Accuracy: 33.55%
+Train Precision: 0.3194, Train Recall: 0.3282, Train F1 Score: 0.3121
+Valid Loss: 2.4030, Valid Accuracy: 33.26%
+Valid Precision: 0.3606, Valid Recall: 0.3351, Valid F1 Score: 0.2949
+Time taken: 62.97 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 2.4030
+
+Epoch 8/20
+Train Loss: 2.1379, Train Accuracy: 37.96%
+Train Precision: 0.3623, Train Recall: 0.3721, Train F1 Score: 0.3572
+Valid Loss: 2.0149, Valid Accuracy: 41.29%
+Valid Precision: 0.4434, Valid Recall: 0.4133, Valid F1 Score: 0.3881
+Time taken: 63.05 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 2.0149
+
+Epoch 9/20
+Train Loss: 1.9134, Train Accuracy: 44.52%
+Train Precision: 0.4328, Train Recall: 0.4390, Train F1 Score: 0.4258
+Valid Loss: 1.8546, Valid Accuracy: 44.87%
+Valid Precision: 0.4475, Valid Recall: 0.4373, Valid F1 Score: 0.4166
+Time taken: 63.29 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.8546
+
+Epoch 10/20
+Train Loss: 1.7531, Train Accuracy: 49.34%
+Train Precision: 0.4863, Train Recall: 0.4880, Train F1 Score: 0.4804
+Valid Loss: 1.8039, Valid Accuracy: 46.32%
+Valid Precision: 0.4886, Valid Recall: 0.4528, Valid F1 Score: 0.4395
+Time taken: 62.86 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.8039
+
+Epoch 11/20
+Train Loss: 1.5870, Train Accuracy: 54.31%
+Train Precision: 0.5388, Train Recall: 0.5366, Train F1 Score: 0.5318
+Valid Loss: 1.8261, Valid Accuracy: 47.88%
+Valid Precision: 0.5074, Valid Recall: 0.4684, Valid F1 Score: 0.4516
+Time taken: 62.95 seconds
+--------------------------------------------------
+
+Epoch 12/20
+Train Loss: 1.4400, Train Accuracy: 57.77%
+Train Precision: 0.5743, Train Recall: 0.5737, Train F1 Score: 0.5698
+Valid Loss: 1.7215, Valid Accuracy: 50.56%
+Valid Precision: 0.5472, Valid Recall: 0.5051, Valid F1 Score: 0.4934
+Time taken: 62.86 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.7215
+
+Epoch 13/20
+Train Loss: 1.2913, Train Accuracy: 61.71%
+Train Precision: 0.6145, Train Recall: 0.6125, Train F1 Score: 0.6111
+Valid Loss: 1.6738, Valid Accuracy: 51.79%
+Valid Precision: 0.5533, Valid Recall: 0.5194, Valid F1 Score: 0.5091
+Time taken: 62.86 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.6738
+
+Epoch 14/20
+Train Loss: 1.1611, Train Accuracy: 65.56%
+Train Precision: 0.6532, Train Recall: 0.6502, Train F1 Score: 0.6493
+Valid Loss: 1.5621, Valid Accuracy: 53.68%
+Valid Precision: 0.5445, Valid Recall: 0.5303, Valid F1 Score: 0.5175
+Time taken: 63.41 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.5621
+
+Epoch 15/20
+Train Loss: 1.0906, Train Accuracy: 67.85%
+Train Precision: 0.6801, Train Recall: 0.6749, Train F1 Score: 0.6743
+Valid Loss: 1.5051, Valid Accuracy: 57.59%
+Valid Precision: 0.5806, Valid Recall: 0.5750, Valid F1 Score: 0.5593
+Time taken: 62.54 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.5051
+
+Epoch 16/20
+Train Loss: 0.9880, Train Accuracy: 71.17%
+Train Precision: 0.7119, Train Recall: 0.7090, Train F1 Score: 0.7091
+Valid Loss: 1.5273, Valid Accuracy: 55.02%
+Valid Precision: 0.5704, Valid Recall: 0.5470, Valid F1 Score: 0.5399
+Time taken: 62.90 seconds
+--------------------------------------------------
+
+Epoch 17/20
+Train Loss: 0.8710, Train Accuracy: 74.32%
+Train Precision: 0.7415, Train Recall: 0.7395, Train F1 Score: 0.7388
+Valid Loss: 1.4489, Valid Accuracy: 59.71%
+Valid Precision: 0.6050, Valid Recall: 0.5947, Valid F1 Score: 0.5872
+Time taken: 62.56 seconds
+--------------------------------------------------
+
+New best model saved! Validation Loss: 1.4489
+
+Epoch 18/20
+Train Loss: 0.7847, Train Accuracy: 77.76%
+Train Precision: 0.7791, Train Recall: 0.7763, Train F1 Score: 0.7765
+Valid Loss: 1.4720, Valid Accuracy: 57.81%
+Valid Precision: 0.6143, Valid Recall: 0.5822, Valid F1 Score: 0.5745
+Time taken: 62.48 seconds
+--------------------------------------------------
+
+Epoch 19/20
+Train Loss: 0.7111, Train Accuracy: 79.10%
+Train Precision: 0.7898, Train Recall: 0.7870, Train F1 Score: 0.7869
+Valid Loss: 1.5078, Valid Accuracy: 57.48%
+Valid Precision: 0.5910, Valid Recall: 0.5763, Valid F1 Score: 0.5595
+Time taken: 62.81 seconds
+--------------------------------------------------
+
+Epoch 20/20
+Train Loss: 0.6744, Train Accuracy: 81.30%
+Train Precision: 0.8130, Train Recall: 0.8117, Train F1 Score: 0.8117
+Valid Loss: 1.5866, Valid Accuracy: 58.82%
+Valid Precision: 0.5988, Valid Recall: 0.5731, Valid F1 Score: 0.5679
+Time taken: 62.55 seconds
+--------------------------------------------------
